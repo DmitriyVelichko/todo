@@ -9,5 +9,8 @@
   — Использовать git и composer.
 
 bd: todo
+
 table: actionList
+
 fields: id(INT),text(TEXT),status(INT),date(TIMESTAMP)
+
