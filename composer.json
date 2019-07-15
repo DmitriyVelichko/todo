@@ -1,0 +1,13 @@
+{
+  "autoload": {
+    "psr-4": {
+      "classes\\": "classes/",
+      "ctrl\\": "controllers/",
+      "iface\\": "interfaces/",
+      "models\\": "models/"
+    }
+  },
+  "require": {
+    "ext-pdo": "*"
+  }
+}
