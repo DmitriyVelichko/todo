@@ -14,3 +14,10 @@ table: actionList
 
 fields: id(INT),text(TEXT),status(INT),date(TIMESTAMP)
 
+Пример Update: https://todo.local/actionUpdate/?id=2&text=test3
+
+Пример Create: https://todo.local/actionCreate/?text=test2
+
+Пример Delete: https://todo.local/actionDelete/?id=2
+
+Пример View: https://todo.local/ или https://todo.local/actionView/
